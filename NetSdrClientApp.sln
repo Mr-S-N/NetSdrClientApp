@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSdrClientApp", "NetSdrClientApp\NetSdrClientApp.csproj", "{8D5D4419-BEC4-4BB3-9F66-48E2FC87CA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{620B4790-2F66-43D7-8DD2-7AB00DBE5E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5D4419-BEC4-4BB3-9F66-48E2FC87CA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5D4419-BEC4-4BB3-9F66-48E2FC87CA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5D4419-BEC4-4BB3-9F66-48E2FC87CA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5D4419-BEC4-4BB3-9F66-48E2FC87CA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620B4790-2F66-43D7-8DD2-7AB00DBE5E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620B4790-2F66-43D7-8DD2-7AB00DBE5E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620B4790-2F66-43D7-8DD2-7AB00DBE5E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620B4790-2F66-43D7-8DD2-7AB00DBE5E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B1231B3-EA7A-443C-89F8-36E6DF7342EA}
+	EndGlobalSection
+EndGlobal
